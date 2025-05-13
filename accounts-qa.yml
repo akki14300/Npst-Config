@@ -1,0 +1,9 @@
+
+accounts:
+  message: "Welcome to NPST accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@npst.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
