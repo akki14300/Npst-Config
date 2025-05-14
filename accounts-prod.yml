@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NPST accounts related Akash APIs "
+  message: "Welcome to NPST accounts related Shubham APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@npst.com"
